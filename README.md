@@ -18,12 +18,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Edzard9/Edzard9/output/pacman-contribution-graph.svg">
 </picture>
 
-<div align="center">
-  <a href="https://open.spotify.com/user/31yh52f4|cv7m3ecrju3q4sqkyb4">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31yh52f4%7Ccv7m3ecrju3q4sqkyb4&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
 [![](https://visitcount.itsvg.in/api?id=Edzard9&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
