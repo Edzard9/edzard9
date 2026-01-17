@@ -69,7 +69,7 @@
 | :------------------------------------------------------------------------------------------------------------- | :------------------ | :--------------------------------- |
 | 🎓 [Python for Complete Beginners](https://www.udemy.com/certificate/UC-557f836e-a3f4-405b-bbff-710ccd78447b/) | Udemy               | Python, Backend                    |
 | 🎓 [Full-Stack Ai With Ollama](https://www.udemy.com/certificate/UC-d0319977-2254-4150-9232-83a1161a0152/)     | Udemy               | Local Large Language Models (LLMs) |
-| 🎓 [Python Ai: Build Smart assistents & Combuter Vision Projects](LINK_SERTIFIKAT_KAMU)                        | Udemy               | Python, Backend                    |
+| 🎓 [Python Ai: Build Smart assistents & Combuter Vision Projects](https://www.udemy.com/certificate)           | Udemy               | Python, Backend                    |
 | 🎓 [Database]                                                                                                  | Campus              | mysql, sqlite                      |
 | 🎓 [Algoritma & Struktur Data]                                                                                 | Campus (Semester 3) | python, mysql, Flask               |
 |                                                                                                                |
