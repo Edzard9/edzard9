@@ -1,69 +1,96 @@
-<h1 align="center">Hi, I'm Tony. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">I go by <b>@edzard9</b> online.</p>
+<h1 align="center">Hi, I'm Tony <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">I go by <b>@Edzard9</b> online.</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=336699&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Backend+Developer+%26+Web+Developer;Python+%26+HTML+%26+Mysql+%26+Flask;Fujifilm+Photography+Enthusiast">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Informatics+Student;Full-Stack+Web+Developer;Self-Hosted+Infrastructure+Builder;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
-<br>
-<h3 align="center">Informatics Student & Python Developer 🇮🇩</h3>
 <p align="center">
-  Specializing in Backend Logic, web development, Database Management, and Desktop Applications (PyQt) 🐍,
-  Merging technical efficiency with clean UI/UX design principles 🎨<br>
-  <i>Always building, optimizing, and exploring new tech stacks</i> 🛠️
+  <a href="https://tnydev.web.id"><img src="https://img.shields.io/badge/Website-tnydev.web.id-2F81F7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+  <a href="https://www.instagram.com/tonifatoni_"><img src="https://img.shields.io/badge/Instagram-@tonifatoni_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:muhammadilhamfathonysulton@gmail.com"><img src="https://img.shields.io/badge/Email-muhammadilhamfathonysulton@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/Edzard9"><img src="https://img.shields.io/badge/GitHub-@Edzard9-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
- <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
-   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
-</div>
 
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=edzard9&label=Total%20Profile%20views&color=0047AB&style=plastic?" alt="rizkipm" height=25px, width=160px/> 
-	
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=edzard9&color=2F81F7&style=plastic" alt="Profile views" />
 </p>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h3 align="left">Languages and Tools:</h3>
+---
 
-- Backend
+## About
+
+I am an Informatics (Computer Science) undergraduate at Universitas Nusantara PGRI (class of 2024), based in Indonesia. I build full-stack web apps end to end, from database design (ERD and normalization) to deployment on my own VPS and Cloudflare, and I am comfortable across Next.js, Laravel, and serverless workers.
+
+Today I maintain my own products (ArtGenetic, grmail, OpsDeck) end to end, and I have started contributing to open source beyond my own projects.
+
+---
+
+## Tech Stack
+
+**Languages**
+
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py" />
+    <img src="https://skillicons.dev/icons?i=py,js,ts,php,java,html,css" />
   </a>
 </p>
 
-- Frontend
+**Frameworks and Runtime**
+
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js" />
+    <img src="https://skillicons.dev/icons?i=nextjs,laravel,flask,nodejs,tailwind,bootstrap" />
   </a>
 </p>
 
-- Database
+**Databases**
+
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
   </a>
 </p>
 
-- Cloud Servers
+**Cloud and Tools**
+
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,aws" />
+    <img src="https://skillicons.dev/icons?i=cloudflare,vercel,linux,git,github,figma,vscode" />
   </a>
 </p>
 
-- Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
+---
+
+## Featured Projects
+
+| Project | What it is | Link |
+| :--- | :--- | :--- |
+| ArtGenetic | AI art platform | https://artgenetic.my.id |
+| grmail | Temporary email service | https://grmail.web.id |
+| OpsDeck | Self-hosted VPS monitoring dashboard | https://github.com/Edzard9/OpsDeck |
+| Kawal-Fasilitas | Village facility reporting platform (team project) | https://kawalfasilitas.web.id |
+| Portfolio | Personal portfolio website | https://tnydev.web.id |
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/Edzard9">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Edzard9&show_icons=true&theme=tokyonight" alt="Tony's GitHub stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edzard9&layout=compact&theme=tokyonight" alt="Top languages" />
   </a>
 </p>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-# 📜 Courses & Certifications
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Edzard9&theme=tokyonight" alt="GitHub streak" />
+</p>
+
+---
+
+<details>
+  <summary><b>Courses and Certifications</b></summary>
 
 | Course / Bootcamp Name                                                                                         | Provider / Platform | Tech Stack / Topic                 |
 | :------------------------------------------------------------------------------------------------------------- | :------------------ | :--------------------------------- |
@@ -72,41 +99,5 @@
 | 🎓 [Python Ai: Build Smart assistents & Combuter Vision Projects](https://www.udemy.com/certificate)           | Udemy               | Python, Backend                    |
 | 🎓 [Database]                                                                                                  | Campus              | mysql, sqlite                      |
 | 🎓 [Algoritma & Struktur Data]                                                                                 | Campus (Semester 3) | python, mysql, Flask               |
-|                                                                                                                |
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/Edzard9">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Edzard9&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=edzard9&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
-<br><br>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<h3 align="left">Activity:</h3>
-
-![Edzard's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Edzard9&show_icons=truecustom_title=Edazrd9's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-<br><br>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Edzard9/Edzard9/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Edzard9/Edzard9/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Edzard9/Edzard9/output/pacman-contribution-graph.svg">
-</picture>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-### 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-<a href="https://www.linkedin.com/in/in/tony-ilham/"><img src="https://img.shields.io/badge/-Tony%20Ilham%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:muhammadilhamfathonysulton@gmail.com"><img src="https://img.shields.io/badge/-muhammadilhamfathonysulton@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/@Tonifatoni_/"><img src="https://img.shields.io/badge/-@Tonifatoni_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-
-</p>
+</details>
