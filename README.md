@@ -78,8 +78,8 @@ Today I maintain my own products (ArtGenetic, grmail, OpsDeck) end to end, and I
 
 <p align="center">
   <a href="https://github.com/Edzard9">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Edzard9&show_icons=true&theme=tokyonight" alt="Tony's GitHub stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edzard9&layout=compact&theme=tokyonight" alt="Top languages" />
+    <img height="180em" src="https://github-readme-stats-artgenetic.vercel.app/api?username=Edzard9&show_icons=true&theme=tokyonight" alt="Tony's GitHub stats" />
+    <img height="180em" src="https://github-readme-stats-artgenetic.vercel.app/api/top-langs/?username=Edzard9&layout=compact&theme=tokyonight" alt="Top languages" />
   </a>
 </p>
 
